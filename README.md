@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me:
-- <img src="https://dolphinstech.eu/images/3.png" width="70"/> I’m currently working at **Dolphins Group**
+- <img src="https://dolphinstech.eu/images/3.png" width="90"/> I’m currently working at **Dolphins Group**
 - 🌱 I’m currently mastering **Next.js 14 and Svelte**
 - 👯 I’m looking to collaborate on **web and programming projects**
 - 🤝 I’m open to help with **projects, code, and more**
