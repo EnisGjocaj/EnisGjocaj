@@ -9,7 +9,7 @@
 
 ### 🚀 About Me:
 - <img src="https://dolphinstech.eu/images/3.png" width="60"/> I’m currently working at **Dolphins Group**
-- 🌱 I’m currently learning **Next.js 14**
+- 🌱 I’m currently mastering **Next.js 14**
 - 👯 I’m looking to collaborate on **web and programming projects**
 - 🤝 I’m open to help with **projects, code, and more**
 - 👨‍💻 All of my projects are available [here](#) <!-- Add your project link here -->
