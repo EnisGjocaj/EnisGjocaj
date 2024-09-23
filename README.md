@@ -1,5 +1,23 @@
 <h1 align="center">Hi 👋, I'm Enis Gjocaj</h1>
-<h3 align="center">A Professional Full Stack Web Developer from Kosovo 🇽🇰</h3>
+<h3 align="center">A Professional Full Stack Web Developer from Kosovo <svg class="kosovo-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+        <!-- Outer Shield -->
+        <path d="M250,0 C100,0 0,150 0,300 C0,400 50,500 250,500 C450,500 500,400 500,300 C500,150 400,0 250,0 Z" 
+            fill="#0038A8" stroke="#FFD700" stroke-width="10"/>
+        
+        <!-- Map of Kosovo -->
+        <path d="M 230,330 L 220,300 L 200,280 L 230,270 L 240,260 L 260,260 L 270,240 L 280,260 L 290,270 L 300,280 
+                L 290,310 L 280,320 L 270,330 L 250,340 Z" fill="#FFD700"/>
+
+        <!-- Six Stars -->
+        <g fill="white">
+            <circle cx="200" cy="100" r="10" />
+            <circle cx="250" cy="90" r="10" />
+            <circle cx="300" cy="100" r="10" />
+            <circle cx="180" cy="130" r="10" />
+            <circle cx="320" cy="130" r="10" />
+            <circle cx="250" cy="130" r="10" />
+        </g>
+    </svg> 🇽🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enisgjocaj&label=Profile%20views&color=0e75b6&style=flat" alt="enisgjocaj" />
