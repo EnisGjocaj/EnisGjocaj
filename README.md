@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **projects, code , and more**
 
-- 👨‍💻 All of my projects are available at [comming soon](comming soon)
+- 👨‍💻 All of my projects are available at ...
 
 - 💬 Ask me about **React, Django, Python, Node, Typescript**
 
