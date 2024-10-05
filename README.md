@@ -66,6 +66,9 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60" style="margin: 5px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="margin: 5px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="60" height="60" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang" width="60" height="60" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" alt="Chakra UI" width="60" height="60" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" style="margin: 5px;" />
 </p>
 
 ---
