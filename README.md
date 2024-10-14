@@ -10,6 +10,7 @@
 ### 🚀 About Me:
 - <img src="https://dolphinstech.eu/images/3.png" width="90"/> I’m currently working at **Dolphins Group**
 - 🌱 I’m currently mastering **Next.js 14 and Svelte**
+- 🌱 I’m currently learning **Go , Laravel and Astro**
 - 👯 I’m looking to collaborate on **web and programming projects**
 - 🤝 I’m open to help with **projects, code, and more**
 - 👨‍💻 All of my projects are available [here](#) <!-- Add your project link here -->
