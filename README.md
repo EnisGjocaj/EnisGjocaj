@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enisgjocaj&label=Profile%20views&color=0e75b6&style=flat" alt="enisgjocaj" />
+  <a href="https://wakatime.com/@bbdb98a1-9900-438b-b775-aaa803be34f1"><img src="https://wakatime.com/badge/user/bbdb98a1-9900-438b-b775-aaa803be34f1.svg" alt="Total time coded since Sep 23 2024" /></a>
 </p>
 
 ---
