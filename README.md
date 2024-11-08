@@ -19,8 +19,9 @@
 - 📫 How to reach me: **enisg1489@gmail.com**
 - 📄 Portfolio page **[coming soon](#)**
 - 🕓 Work statistics and information: -> **comming soon**❗
+- <figure><embed src="https://wakatime.com/share/@Gjocaj/8b6fe9c5-c496-4531-a9ca-fde1d9280ad9.svg"></embed></figure>
+
 ---
-<figure><embed src="https://wakatime.com/share/@Gjocaj/8b6fe9c5-c496-4531-a9ca-fde1d9280ad9.svg"></embed></figure>
 
 ### 🌐 Connect with Me:
 <p align="center">
