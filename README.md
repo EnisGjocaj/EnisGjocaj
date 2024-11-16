@@ -71,6 +71,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang" width="60" height="60" style="margin: 5px;" />
   <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" alt="Chakra UI" width="60" height="60" style="margin: 5px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Larvel" width="60" height="60" style="margin: 5px;" />
 </p>
 
 ---
