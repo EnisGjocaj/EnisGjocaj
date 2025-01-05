@@ -81,15 +81,24 @@
 ![Convex](https://img.shields.io/badge/convex-%234B5562.svg?style=for-the-badge&logo=convex&logoColor=white)
 
 
+----
+
+
+### 📊 GitHub Stats and Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnisGjocaj&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnisGjocaj&layout=compact&theme=radical)
+
+### 🔥 GitHub Contribution Graph
+[![EnisGjocaj's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnisGjocaj&theme=github)](https://github.com/EnisGjocaj)
+
+### 📈 GitHub Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=EnisGjocaj&theme=radical&border_radius=5)
+
+### 🏆 GitHub Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=EnisGjocaj&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enisgjocaj&show_icons=true&locale=en&layout=compact" alt="enisgjocaj" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enisgjocaj&show_icons=true&locale=en" alt="enisgjocaj" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enisgjocaj&" alt="enisgjocaj" />
-</p>
