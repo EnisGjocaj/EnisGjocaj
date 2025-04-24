@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available [here](#) <!-- Add your project link here -->
 - 💬 Ask me about **React, Django, Python, Node, TypeScript**
 - 📫 How to reach me: **enisg1489@gmail.com**
-- 📄 Portfolio page **[coming soon](#)**
+- 📄 Website **enisgjocaj.pro**
 - 
 
 ---
