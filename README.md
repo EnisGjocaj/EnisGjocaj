@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Enis Gjocaj</h1>
 <h3 align="center">A Professional Full Stack Web Developer from Kosovo 🇽🇰</h3>
 
+<div align="center">
+  <h3> Not here to flex a fancy GitHub profile, dont care about that at all </h3>
+  <h4>Check the real work instead:</h4>
+  <a href="https://enisgjocaj.pro" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</div>
+
 
 <!--
 <p align="center">
