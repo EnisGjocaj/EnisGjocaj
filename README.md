@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Enis Gjocaj</h1>
 <h3 align="center">A Professional Full Stack Web Developer from Kosovo 🇽🇰</h3>
 
-<hr>
+<br/>
 
 <div align="center">
-  <sub>
-    <p style="font-style: italic; font-size: 14px; color: gray;">
-      <strong>“Not here to flex a fancy GitHub profile — don’t care about that at all.”</strong><br>
-      <span style="font-family: monospace; font-size: 12px;">Check the real work instead 👇</span>
-    </p>
-  </sub>
+  <em> I am a real dev, and my github profile, well — don’t care about that at all.</em><br/>
+  <strong> Check the real work instead:</strong><br/><br/>
   <a href="https://enisgjocaj.pro" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge" />
   </a>
 </div>
+
 
 
 <!--
