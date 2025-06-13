@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Enis Gjocaj</h1>
 <h3 align="center">A Professional Full Stack Web Developer from Kosovo 🇽🇰</h3>
 
+
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enisgjocaj&label=Profile%20views&color=0e75b6&style=flat" alt="enisgjocaj" />
   <a href="https://wakatime.com/@bbdb98a1-9900-438b-b775-aaa803be34f1"><img src="https://wakatime.com/badge/user/bbdb98a1-9900-438b-b775-aaa803be34f1.svg" alt="Total time coded since Sep 23 2024" /></a>
@@ -14,7 +16,7 @@
 - 🌱 I’m currently learning **Go , Laravel and Astro**
 - 👯 I’m looking to collaborate on **web and programming projects**
 - 🤝 I’m open to help with **projects, code, and more**
-- 👨‍💻 All of my projects are available [here](#) <!-- Add your project link here -->
+- 👨‍💻 All of my projects are available [here](#) 
 - 💬 Ask me about **React, Django, Python, Node, TypeScript**
 - 📫 How to reach me: **enisg1489@gmail.com**
 - 📄 Website **[enisgjocaj.pro](#)**
@@ -103,4 +105,4 @@
 
 
 ---
-
+-->
