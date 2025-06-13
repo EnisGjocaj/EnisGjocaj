@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-  <em> I am a dev, andI don’t care about my github profile at all.</em><br/>
+  <em> I am a dev, and I don’t care about my github profile at all.</em><br/>
   <strong> Check the real work instead:</strong><br/><br/>
   <a href="https://enisgjocaj.pro" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Visit-My%20Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge" />
